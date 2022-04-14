@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
-USERNAME="akashgreninja"
-TOKEN="akashudayhulekal"
+USERNAME="your username"
+TOKEN="your token"
 ID="first"
 params={
     "id":ID,
